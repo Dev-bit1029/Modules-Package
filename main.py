@@ -45,4 +45,5 @@ def main():
             print("Invalid Choice Between (1-7)")
             
             
-main()
+if __name__ == "__main__" :
+    main()
